@@ -1,0 +1,34 @@
+{
+  "schema": "opencerts/v1.4",
+  "data": {
+    "id": "95919431-3113-4d60-ae93-8cf507d2c1a6:string:SITCerts_PC1_00000008_1",
+    "name": "3bfcdb9e-5331-4943-8a6e-aeb40f300029:string:BACHELOR OF ENGINEERING",
+    "$template": "0bf3bc56-2e26-4c66-983f-fe934dbd0b78:string:sg/edu/singaporetech/2018-certificate",
+    "issuedOn": "d080aa63-c58a-4977-b122-d25586c952e7:string:2019-01-15T02:18:52+08:00",
+    "issuers": [
+      {
+        "name": "a0543c3a-b551-4328-a567-bb231aac6d13:string:SIT",
+        "certificateStore": "b80aad6f-a44c-4f9f-9bb7-15aab0a559ed:string:0x3f43FB8546E97b2c1D5eD087767C0d2eb2e13f8b"
+      }
+    ],
+    "recipient": {
+      "name": "86b66f33-917c-4ada-a14e-5fdcf624b483:string:TEST STUDENT NAME 1, SIT TEST SSG 01",
+      "did": "00b795a7-a672-4136-be7b-29486ec7885b:string:"
+    },
+    "additionalData": {
+      "confDate": "869c92c6-08c2-424b-b69c-67ef8d790a86:string:on 5th February 2018.",
+      "degreeName1": "ea025d92-c5aa-463a-ba98-f443f36c20ff:string:BACHELOR OF ENGINEERING",
+      "degreeName2": "bdf1b9b0-9fd5-4121-99da-c6f5dde9b5e9:string:in Information and Communications Technology",
+      "degreeName3": "7a299521-449a-478b-9a3e-bf8b32246e69:string:majoring in Information Security and awarded Honours with Merit",
+      "sitPresidentSign": "0e62758b-88f7-41cf-9733-977fbcda14f1:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAABSCAQAAABnVScHAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAHsIAAB7CAW7QdT4AAAAHdElNRQfjCwYIKAa0kvdmAAAD10lEQVR42u2aX4hVRRzHP9fV1v2Texe5matGtBEIIri6Fppy0fAhiqKtkAqCpIcEHwL/tPoQIRQZWC/Ksv570RchxUCMnkTsKdsgXRFWhN3W1kDN267t+m9vD4s6c8+fe+Yc73JPfj/zsufMnDm//cyZOTNzLgghhBBCCCGEEEIIIYQQQgghhBBCCCGEECI2mUdQRxMdLKeNp8lSwwgFLnGRHn6ml2KimmtZSZ5lzGYmWW4xwiB9/MoJeh+HxsnRxSjFgHSZXQ9KFkOSHw1sZCjwij4+pckqb+ePMd9TY7k7TrAhUqlJYA1/h0ozA3STu5j+sjUPh8gtctrTK6PIbaS3OuS+wZ2yAuLJfSekNwRd581d7yC3lhwL+YS+iM93hWnhupOA6HJfZCxSzeXkFpgTWW704WpS2G4EMcoO8uSYRj0tLOFjuvkjptwmLlt5dzjE2zxDHdOZy6t8y2BEuUWOpVXuWSOIl3xLLOUgt51fK19YJc7wgqfEVD5kIJLcIu+mU+6wEcQsh+vCg5/BDSP/F+oDapnO9pKG89dzheY0yv3XCOJ7419IJrfDyL1Na8xGGzf+PpBGueetMEY5zmesJptQbpeRu98pHrPeLutotdM8tyrkfufb1uNcYDdvMSNm8GeM3Ndjy81ay4+L1KVNbmvoXHSUQyyIEfyAkTsvtlxYax1/E3rnTPXJhY+ssc2b7vElUxzlmiN5rdOYWHr+R+P4Lm1pkwsdXCszze9OIPfJRHKfs+rqYWra5EKWz62u7E1rYg8LrYnkQqd1bkvAlZnqlQswhXY2cTxgOXzESW6PkftBQrnTOGe9BVIp9yHPs5bd/GUF+KeT3H1G7tGEcmF54FvBlptJg9z723aHraWAi9z3rWldu8Nsw/98dzrl3uIrGgK30B8GOOQkN2ftiPXTklBuM1fSKLdIkUE285RP3iIjwJOOk/RdVokhXkskF95Lq9yJbn+CreR5lkZqaKaNTq7G3LIGmMdIiYizdLKKOTSQodZZLvyUXrnhqe/Bvlb0zfKOMosTV7l+a8lSuS53qhK5/7A01meeLRH1Ru0R2/5/cgdZErG8lzcpPEK5T5Ts4VW93JfZF/Lt9wZf0xi5MfxoYadn9DU/2u8pWfuF17eipC9MitxkPwqpYRl5FjCfHI3Uc5MCA/zGKX5gzPOku0fRzCvkaSfHTOoYpkA/5/id05z36Unh9e1lXUCJDDBeCU8ZRKZs48feFxAV3HQRFe4SslCRgUFPbgVd6Mm1d3XH9eRWYkk0obhGKio1LEitEEIIIYQQQgghhBBCCCGEgP8A8xP6NWMkbAwAAAAASUVORK5CYII=",
+      "sitDepPresidentSign": "68154436-4dc0-4bd1-8243-2ee2458623fb:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAABSCAQAAABnVScHAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAHsIAAB7CAW7QdT4AAAAHdElNRQfjCwYIKAa0kvdmAAAD10lEQVR42u2aX4hVRRzHP9fV1v2Texe5matGtBEIIri6Fppy0fAhiqKtkAqCpIcEHwL/tPoQIRQZWC/Ksv570RchxUCMnkTsKdsgXRFWhN3W1kDN267t+m9vD4s6c8+fe+Yc73JPfj/zsufMnDm//cyZOTNzLgghhBBCCCGEEEIIIYQQQgghhBBCCCGEECI2mUdQRxMdLKeNp8lSwwgFLnGRHn6ml2KimmtZSZ5lzGYmWW4xwiB9/MoJeh+HxsnRxSjFgHSZXQ9KFkOSHw1sZCjwij4+pckqb+ePMd9TY7k7TrAhUqlJYA1/h0ozA3STu5j+sjUPh8gtctrTK6PIbaS3OuS+wZ2yAuLJfSekNwRd581d7yC3lhwL+YS+iM93hWnhupOA6HJfZCxSzeXkFpgTWW704WpS2G4EMcoO8uSYRj0tLOFjuvkjptwmLlt5dzjE2zxDHdOZy6t8y2BEuUWOpVXuWSOIl3xLLOUgt51fK19YJc7wgqfEVD5kIJLcIu+mU+6wEcQsh+vCg5/BDSP/F+oDapnO9pKG89dzheY0yv3XCOJ7419IJrfDyL1Na8xGGzf+PpBGueetMEY5zmesJptQbpeRu98pHrPeLutotdM8tyrkfufb1uNcYDdvMSNm8GeM3Ndjy81ay4+L1KVNbmvoXHSUQyyIEfyAkTsvtlxYax1/E3rnTPXJhY+ssc2b7vElUxzlmiN5rdOYWHr+R+P4Lm1pkwsdXCszze9OIPfJRHKfs+rqYWra5EKWz62u7E1rYg8LrYnkQqd1bkvAlZnqlQswhXY2cTxgOXzESW6PkftBQrnTOGe9BVIp9yHPs5bd/GUF+KeT3H1G7tGEcmF54FvBlptJg9z723aHraWAi9z3rWldu8Nsw/98dzrl3uIrGgK30B8GOOQkN2ftiPXTklBuM1fSKLdIkUE285RP3iIjwJOOk/RdVokhXkskF95Lq9yJbn+CreR5lkZqaKaNTq7G3LIGmMdIiYizdLKKOTSQodZZLvyUXrnhqe/Bvlb0zfKOMosTV7l+a8lSuS53qhK5/7A01meeLRH1Ru0R2/5/cgdZErG8lzcpPEK5T5Ts4VW93JfZF/Lt9wZf0xi5MfxoYadn9DU/2u8pWfuF17eipC9MitxkPwqpYRl5FjCfHI3Uc5MCA/zGKX5gzPOku0fRzCvkaSfHTOoYpkA/5/id05z36Unh9e1lXUCJDDBeCU8ZRKZs48feFxAV3HQRFe4SslCRgUFPbgVd6Mm1d3XH9eRWYkk0obhGKio1LEitEEIIIYQQQgghhBBCCCGEgP8A8xP6NWMkbAwAAAAASUVORK5CYII="
+    }
+  },
+  "privacy": {},
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "7bfda2c1893888845857b6c45cf88df65cd31828a1d75a8710c0066570ca39e9",
+    "proof": [],
+    "merkleRoot": "7bfda2c1893888845857b6c45cf88df65cd31828a1d75a8710c0066570ca39e9"
+  }
+}

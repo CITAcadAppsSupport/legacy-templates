@@ -1,0 +1,36 @@
+{
+  "schema": "opencerts/v1.4",
+  "data": {
+    "id": "ba0badf7-dd4a-4b2e-9387-d9b6b459c9fb:string:1419",
+    "name": "94437235-1fb3-452a-a2ad-f30479e9e491:string:BACHELOR OF ENGINEERING",
+    "$template": "11f0a27d-3953-4b01-9908-09dd6cce8faa:string:sg/edu/singaporetech/2019-sitcert",
+    "issuedOn": "0e0fe8df-168d-490e-b180-fa90b33f27da:string:2019-11-06T05:32:55+08:00",
+    "issuers": [
+      {
+        "name": "6a41bd33-74be-44dd-a8b5-82d7c5884f58:string:SIT",
+        "certificateStore": "36c64808-9008-494c-bf1a-0afb4c08acdb:string:0x3f43FB8546E97b2c1D5eD087767C0d2eb2e13f8b"
+      }
+    ],
+    "recipient": {
+      "name": "15a80c0f-bd73-405c-a21b-347225f92e39:string:SIT STUDENT NAME",
+      "did": "5a4f645e-03e8-4d51-9581-6f0784a89a7b:string:"
+    },
+    "additionalData": {
+      "cert": "024a14c8-a77f-445b-bc83-304b678dd755:string:This is to certify that",
+      "univ": "e6163f70-d8a3-4704-8f09-93cbef50dbb4:string:having fulfilled the requirements of the University was conferred the degree of",
+      "degree": "dc2fd2f1-0c74-4325-83f8-279a6277ae8c:string:BACHELOR OF ENGINEERING",
+      "program": "730d8e6a-06b6-400a-823f-0d89b9f86c51:string:in Pharmaceutical Engineering",
+      "major": "fa5bdd3c-d171-4159-8b33-9fa56d0e34c9:string:and awarded Honours with Distinction",
+      "confDate": "5f8b0cdb-47f4-422f-9878-fb07540095ee:string:on 4th February 2019.",
+      "sign1": "aefeeb09-2b41-4e81-9bd1-869eea8ff09a:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAABSCAQAAABnVScHAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAHsIAAB7CAW7QdT4AAAAHdElNRQfjCwYIKAa0kvdmAAAD10lEQVR42u2aX4hVRRzHP9fV1v2Texe5matGtBEIIri6Fppy0fAhiqKtkAqCpIcEHwL/tPoQIRQZWC/Ksv570RchxUCMnkTsKdsgXRFWhN3W1kDN267t+m9vD4s6c8+fe+Yc73JPfj/zsufMnDm//cyZOTNzLgghhBBCCCGEEEIIIYQQQgghhBBCCCGEECI2mUdQRxMdLKeNp8lSwwgFLnGRHn6ml2KimmtZSZ5lzGYmWW4xwiB9/MoJeh+HxsnRxSjFgHSZXQ9KFkOSHw1sZCjwij4+pckqb+ePMd9TY7k7TrAhUqlJYA1/h0ozA3STu5j+sjUPh8gtctrTK6PIbaS3OuS+wZ2yAuLJfSekNwRd581d7yC3lhwL+YS+iM93hWnhupOA6HJfZCxSzeXkFpgTWW704WpS2G4EMcoO8uSYRj0tLOFjuvkjptwmLlt5dzjE2zxDHdOZy6t8y2BEuUWOpVXuWSOIl3xLLOUgt51fK19YJc7wgqfEVD5kIJLcIu+mU+6wEcQsh+vCg5/BDSP/F+oDapnO9pKG89dzheY0yv3XCOJ7419IJrfDyL1Na8xGGzf+PpBGueetMEY5zmesJptQbpeRu98pHrPeLutotdM8tyrkfufb1uNcYDdvMSNm8GeM3Ndjy81ay4+L1KVNbmvoXHSUQyyIEfyAkTsvtlxYax1/E3rnTPXJhY+ssc2b7vElUxzlmiN5rdOYWHr+R+P4Lm1pkwsdXCszze9OIPfJRHKfs+rqYWra5EKWz62u7E1rYg8LrYnkQqd1bkvAlZnqlQswhXY2cTxgOXzESW6PkftBQrnTOGe9BVIp9yHPs5bd/GUF+KeT3H1G7tGEcmF54FvBlptJg9z723aHraWAi9z3rWldu8Nsw/98dzrl3uIrGgK30B8GOOQkN2ftiPXTklBuM1fSKLdIkUE285RP3iIjwJOOk/RdVokhXkskF95Lq9yJbn+CreR5lkZqaKaNTq7G3LIGmMdIiYizdLKKOTSQodZZLvyUXrnhqe/Bvlb0zfKOMosTV7l+a8lSuS53qhK5/7A01meeLRH1Ru0R2/5/cgdZErG8lzcpPEK5T5Ts4VW93JfZF/Lt9wZf0xi5MfxoYadn9DU/2u8pWfuF17eipC9MitxkPwqpYRl5FjCfHI3Uc5MCA/zGKX5gzPOku0fRzCvkaSfHTOoYpkA/5/id05z36Unh9e1lXUCJDDBeCU8ZRKZs48feFxAV3HQRFe4SslCRgUFPbgVd6Mm1d3XH9eRWYkk0obhGKio1LEitEEIIIYQQQgghhBBCCCGEgP8A8xP6NWMkbAwAAAAASUVORK5CYII=",
+      "sign2": "1a6994f9-3572-42d8-892f-24533b0e1474:string:data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAABSCAQAAABnVScHAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAHsIAAB7CAW7QdT4AAAAHdElNRQfjCwYIKBE3QXKhAAAEdElEQVR42u2aW2gcVRiAv22ae0w21G11a6U0IlZKwdhUaawsRvog3mq8FLUIiiB9E2xrLHihoGjx8tISojUv9qGCikJt64ui9UVjBHtByCIkbpsK2nabxFxqMj4E23N2LnvOzO5shP+bl8yef86Z+WbOmXP+CQiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCEJpECepooZtO2rmGJFWMk+c3sgzyPSdxItVcy51k2MC1LCHJNOPkGOInDnOyxB7q2Egna7mZq2lmhjxZfuAgA5W8OSl6mcTx2U6z93KkE7B50cgLjPoeMcTztGjxevkUq101+rd4kAmfdr5mVaXUbuJ8oDT1Muzk3spw0ZrHAuQ6HHP1Sv8Wg1o5x5pKqH2AS0UFhJP7SEBv8DvOXbqtJHIdstTErTbNOSsB5nJvY8qo5mJy8ywviVyH5+KWu1tpfJK3yJCimgbSrONZ+vg9pNwWTmtllzjAw1xPPXVcxz28S85QrsPnFnLH6ecxVlLHMjJ8qUUfjVvucaXx2z0j1vMRMxavlXle0yIGuNEVsZinGDGS6/CoUct5dtFc8Fu/En0mbrljSuPLLI4LltvMBaX8Rxp8p067C26ct9yztBrfVp2blOjpuOX+rTT+iXIJ0eR2K6UztIW8aXPK3/0h5dYq0RfjlntKO9lJDvEiXSQjyu1VSj+0Oh+13l5tryuU3DYlejBuue95dsM5fmUfD7lGMFO5A0rpfaHlJrXlR5b6EHK3KdFvxy23LXAuOskBn8l38CWOKKUrQsuFLdr+nsCWvVIANWSV6LXxLyKe1sY29zbL6yyylKuO5LVFX1dB9R5R9v+h3VLuHu2NUhG6+avI9LsvgtyrIsldpdU1yGILuVuVyPOWPaiEJHlF68rubVPoYaEtklzo0X7b6XNkwiV3s7Ksn2NzZdOWi+hgO4d8lsOfWskdVEqfjCi3mhPaW8BM7lYtY7J94WSHb2AL+/hDu4wzVnL3K6WfRZQLnb5vBV3uFb07tCNeXXgJ+CY+1pYCNnKf0KZ1HRazDe/f+yzkVmu3dtaVVYuRad6g0TeFfuUkR63kprSM2DDpiHJbOWsoN813SvkE91fy+XRwyLGDpR5ltyin+Y1l4mavFjHKvZHkwuNGcru0wSzn2Wdiljvf7Q/zEhlW0kQVrbTTw5+hUtbzrGC8QMRxeriL5TSS0Fb8jmG9XxWRW8XLzGqfdpZWemQ1S2cPXc5rmSfLu4ssTmzleq0lVblHrNtaEHIvsj7UZ56dhnpNe8SuQLnO/1FujnWG8W4eJF9CuTUFObwFL/cO9gd8+73AmzQZ3wwv0rzjGn3Vj/bvF6z9guvbWNAXYpEb7Z9CqthAhjWsJkUTDUyQZ4Sf+ZYvmHI96fZn0crdZOggxRLqGSPPMCf4hWOc8uhJwfV9wDM+EU65TCUQEhaKLfMCQhmTLkKZu4RYKMvAIE9uGV3Ik6tndefkyS3Hkui/PINQpmFB1AqCIAiCIAiCIAiCIAiCIAiCIAjwL/8iJprMm93eAAAAAElFTkSuQmCC"
+    }
+  },
+  "privacy": {},
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "5f83c7fe39e5cd720718c103b9727b4485db57959c815535779711eb5eabf704",
+    "proof": [],
+    "merkleRoot": "5f83c7fe39e5cd720718c103b9727b4485db57959c815535779711eb5eabf704"
+  }
+}
